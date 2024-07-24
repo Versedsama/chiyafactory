@@ -121,7 +121,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             height: 100vh;
             margin: 0; /* Remove default margin */
             background-color:black;
-             background-image: url('../image/loginBackground.jpg'); /* Set the background image path */
+             background-image: url('../image/logbg.jpg'); /* Set the background image path */
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -159,7 +159,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <body>
     <div class="login-container">
     <div class="login_wrapper">
-        <a class="nav-link" href="../home/home.php#hero"> <h1 class="text-center" style="font-family:Copperplate; color:white;"> JOHNNY'S</h1><span class="sr-only"></span></a>
+        <a class="nav-link" href="../home/home.php#hero"> <h1 class="text-center" style="font-family:Copperplate; color:white;"> CHIYA FACTORY</h1><span class="sr-only"></span></a>
     
         <div class="wrapper">
            

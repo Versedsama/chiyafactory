@@ -95,7 +95,7 @@ $next_account_id = getNextAvailableAccountID($link);
         
         <div class="form-group">
             <label for="member_name" class="form-label">Member Name :</label>
-            <input type="text" name="member_name" placeholder="Johnny Hatsoff" class="form-control <?php echo $member_name_err ? 'is-invalid' : ''; ?>" id="member_name" required value="<?php echo $member_name; ?>"><br>
+            <input type="text" name="member_name" placeholder="CHiya Factory" class="form-control <?php echo $member_name_err ? 'is-invalid' : ''; ?>" id="member_name" required value="<?php echo $member_name; ?>"><br>
             <div class="invalid-feedback">
                 Please provide a valid member name.
             </div>
@@ -119,7 +119,7 @@ $next_account_id = getNextAvailableAccountID($link);
         
         <div class="form-group">
             <label for="email" class="form-label">Email :</label>
-            <input type="text" name="email" placeholder="johnny12@dining.bar.com" class="form-control <?php echo !$emailErr ?: 'is-invalid'; ?>" id="email" required value="<?php echo $email; ?>"><br>
+            <input type="text" name="email" placeholder="chiyafactory@gmail.com" class="form-control <?php echo !$emailErr ?: 'is-invalid'; ?>" id="email" required value="<?php echo $email; ?>"><br>
             <div id="validationServerFeedback" class="invalid-feedback">
                 Please provide a valid email.
             </div>
@@ -143,7 +143,7 @@ $next_account_id = getNextAvailableAccountID($link);
 
         <div class="form-group">
             <label for="password">Password :</label>
-            <input type="password" name="password" placeholder="johnny1234@" id="password" required class="form-control <?php echo !$password_err ?: 'is-invalid' ; ?>" value="<?php echo $password; ?>"><br>
+            <input type="password" name="password" placeholder="chiya1234@" id="password" required class="form-control <?php echo !$password_err ?: 'is-invalid' ; ?>" value="<?php echo $password; ?>"><br>
             <div id="validationServerFeedback" class="invalid-feedback">
                 Please provide a valid password.
             </div>

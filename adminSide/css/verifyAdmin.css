@@ -8,10 +8,10 @@ body {
 }
 
 .login-container {
-    padding: 50px; /* Adjust the padding as needed */
-    border-radius: 10px; /* Add rounded corners */
-    margin: 100px auto; /* Center the container horizontally */
-    max-width: 500px; /* Set a maximum width for the container */
+    padding: 50px; 
+    border-radius: 10px; 
+    margin: 100px auto; 
+    max-width: 500px; 
 }
 
 

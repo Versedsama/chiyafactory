@@ -66,8 +66,8 @@ session_start();
           <li><a href="#hero" data-after="Home">Home</a></li>
           
           <li><a href="#projects" data-after="Projects">Menu</a></li>
-          <li><a href="about.php" data-after="About">About</a></li>
-          <li><a href="contact.php" data-after="Contact">Contact</a></li>
+          <li><a href="#about" data-after="About">About</a></li>
+          <li><a href="#contact" data-after="Contact">Contact</a></li>
           <li><a href="../CustomerReservation/reservePage.php" data-after="Service">Reservation</a></li>
           <li><a href="../../adminSide/StaffLogin/login.php" data-after="Staff">Staff</a></li>
           
@@ -294,7 +294,24 @@ mysqli_close($link);
   <!-- About Section -->
   
 
-       
+       <!-- About Section -->
+<section id="about" ">
+  <div class="about container">
+    <div class="col-right">
+        <h1 class="section-title" >About <span>Us</span></h1>
+        <h2> Chiya Factory History:</h2>
+<p>Chiya Factory is a beloved tea and café establishment located in the picturesque town of Kirtipur, Nepal. With a dedication to providing exceptional tea experiences and fostering a rich café culture, Chiya Factory has become a popular destination for those looking to indulge in the finest teas and enjoy a cozy, welcoming atmosphere.
+</p>
+<p>Chiya Factory specializes in a diverse array of tea offerings, catering to the varied tastes of its customers. The menu boasts an extensive selection, including traditional Nepali teas, herbal infusions, and exotic blends from around the world. Patrons can delight in carefully curated options such as masala chai, green tea, black tea, oolong, and specialty brews, each crafted to offer a unique and satisfying experience. The tea menu is thoughtfully designed to balance classic favorites with innovative concoctions, ensuring there is something for every tea enthusiast.
+</p>
+<p>One of Chiya Factory's standout features is its ability to accommodate guests with varying preferences and needs. Whether customers prefer to drop in spontaneously or book a table in advance, Chiya Factory strives to create an inviting and comfortable environment for all. Recognizing the importance of memorable moments, especially for those celebrating special occasions, Chiya Factory is a favorite among families, couples, and groups of friends, thanks to its attentive staff and warm ambiance.
+</p>
+<p>In addition to the indoor café space, Chiya Factory offers an inviting outdoor seating area open seven days a week from 7:00 AM to 9:00 PM. This serene outdoor setting provides a perfect backdrop for patrons to relax and socialize while sipping on their favorite teas and enjoying light snacks. The outdoor area features a range of refreshments, including freshly brewed teas, coffee, smoothies, and a selection of delectable pastries and sandwiches.
+</p>
+      </div>
+    </div>
+  </section>
+  <!-- End About Section -->
   
 
   

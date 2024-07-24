@@ -24,21 +24,7 @@ require_once '../posBackend/checkIfLoggedIn.php';
                                     <option value="Main Dishes">Main Dishes</option>
                                     <option value="Side Snacks">Side Snacks</option>
                                     <option value="Drinks">Drinks</option>                                    
-                                    <option value="Steak & Ribs">Steak & Ribs</option>
-                                    <option value="Seafood">Seafood</option>
-                                    <option value="Pasta">Pasta</option>
-                                    <option value="Lamb">Lamb</option>
-                                    <option value="Chicken">Chicken</option>
-                                    <option value="Burgers & Sandwiches">Burgers & Sandwiches</option>
-                                    <option value="Bar Bites">Bar Bites</option>
-                                    <option value="House Dessert">House Dessert</option>
-                                    <option value="Salad">Salad</option>
-                                    <option value="Shoney Kid">Shoney Kid</option>
-                                    <option value="Side Dishes">Side Dishes</option>
-                                    <option value="Classic Cocktails">Classic Cocktails</option>
-                                    <option value="Cold Pressed Juice">Cold Pressed Juice</option>
-                                    <option value="House Cocktails">House Cocktails</option>
-                                    <option value="Mocktails">Mocktails</option>
+                            
                                 </select>
                             </div>
                             <div class="col-md-3">

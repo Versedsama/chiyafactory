@@ -71,7 +71,7 @@ if(isset($_POST['submit'])){
                 <option value="Fried Rice">Fried Rice</option>
                 <option value="Spring Roll">Spring Roll</option>
                 <option value="Katti Roll">Katti Roll</option>
-                <option value="Pizza">Chowmein</option>
+                <option value="Pizza">Pizza</option>
                 <option value="Burger">Burger</option>
                 <option value="Sekuwa">Sekuwa</option>
                 <option value="Drinks">Drinks</option>

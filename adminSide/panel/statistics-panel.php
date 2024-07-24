@@ -61,7 +61,7 @@ $totalRevenueThisMonth = $totalRevenueThisMonthRow['total_revenue'];
                     <thead>
                         <tr>
                             <th scope="col">Metric</th>
-                            <th scope="col">Amount (RM)</th>
+                            <th scope="col">Amount (Rs)</th>
                         </tr>
                     </thead>
                     <tbody>

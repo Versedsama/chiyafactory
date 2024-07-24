@@ -144,7 +144,7 @@ if ($stmt_accounts = mysqli_prepare($link, $sql_accounts)) {
             height: 100vh;
             margin: 0; /* Remove default margin */
             background-color:black;
-             background-image: url('../image/loginBackground.jpg'); /* Set the background image path */
+             background-image: url('../image/logbg.jpg'); 
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -206,7 +206,7 @@ if ($stmt_accounts = mysqli_prepare($link, $sql_accounts)) {
 <body>
     <div class="register-container">
     <div class="register_wrapper"> <!-- Updated class name -->
-        <a class="nav-link" href="../home/home.php#hero"> <h1 class="text-center" style="font-family:Copperplate; color:white;"> JOHNNY'S</h1><span class="sr-only"></span></a><br>
+        <a class="nav-link" href="../home/home.php#hero"> <h1 class="text-center" style="font-family:Copperplate; color:white;"> CHIYA FACTORY</h1><span class="sr-only"></span></a><br>
        
         <form action="register.php" method="post">
             <div class="form-group">
